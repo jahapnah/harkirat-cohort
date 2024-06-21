@@ -1,0 +1,11 @@
+pwd
+cd
+cd ..
+ls
+mkdir
+touch
+cat - > to look what's written inside the file
+vi - > :wq! -> to save that file
+mv
+cp
+
